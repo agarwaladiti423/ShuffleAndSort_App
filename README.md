@@ -1,6 +1,8 @@
 # ShuffleAndSort_App
 #Designed in Vanilla javascript
 
+It consists of generic library which can be modified, so the no of rows and columns in the board can be changed as per the requirement.
+
 The page consists of 9 numbered cards which can be manipulated by using the shuffle and short buttons.
 
 Using JavaScript, allow the user to:
